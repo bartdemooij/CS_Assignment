@@ -7,3 +7,4 @@ The title of the following searches are:
 
 The graph of the istherecorrelation.csv file is added as an additional file.
 This graph does show some correlation because when WO increases, so does the Beer Consumption in NL.
+
